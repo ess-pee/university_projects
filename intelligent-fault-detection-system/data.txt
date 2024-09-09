@@ -1,4 +1,0 @@
-Please click the link below to access the vibration signal data used in this project.
-Once downloaded extract the files in the 'intelligent-fault-detection-system' folder as is.
-
-https://www.dropbox.com/scl/fi/kitby1dktchrik3l5hcav/vibration_signal_files.zip?rlkey=tkdy35k5x1yx46y0e54bxq1lq&st=c1pbgoco&dl=0
