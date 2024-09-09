@@ -1,0 +1,3 @@
+function OUTPUT = RPM2RPS(INPUT)
+    OUTPUT = INPUT.*0.1047198;
+end

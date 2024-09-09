@@ -1,0 +1,11 @@
+function OUTPUT = STDCLEANER(TABLE, TABLECOLUMN)
+
+CL_M = mean(TABLECOLUMN);
+STD_M = std(TABLECOLUMN);
+
+idx = abs(TABLECOLUMN - CL_M) > STD_M;
+
+TABLE(idx, :) = [];
+
+OUTPUT = TABLE;
+end
