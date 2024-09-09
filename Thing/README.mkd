@@ -1,0 +1,14 @@
+# Thing: a set of ESP32 firmware examples
+
+(For more details of the development tools see [chapter two of the course
+notes](https://iot.unphone.net/#sec:setup).)
+
+To choose which example to run, edit `LABNUM` in `sketch/sketch.ino`.
+
+Files:
+
+- `sketch`:             source code
+  - `sketch.ino`:       main entry points: `setup` and `loop`; this code acts
+                        as the exercise runner
+  - `Thing.h`:          shared declarations
+  - `Ex01.cpp...Ex12.cpp`: the individual exercises
