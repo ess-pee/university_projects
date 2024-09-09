@@ -1,6 +1,5 @@
-% Last Edited: 25/04/2023
-% This is the main matlab script for the Y3 Machine Learning Assignment,
-% which involves analysis of traffic data and air pollution data.
+% Last Edited: 09/09/2024
+% This is the main matlab script which involves analysis of traffic data and air pollution data.
 
 close all
 clear
