@@ -1,8 +1,8 @@
 # Shaurya's University Projects
 
-#### This repository contains most projects I had developed while in University, all of these projects were designed, written and operated by me. Notably it is missing code from a burglar alarm system furnished with facial recognition, an e-commerce website, and the automatic anaesthesia delivery controller.
+#### This repository contains most projects I had developed while in University, all of these projects were designed, written and operated by me. Notably it is missing code from a burglar alarm system furnished with facial recognition, an e-commerce website, and the automatic anaesthesia delivery controller. The code for all of the three is lost at the moment.
 
-#### Languages used:  
+#### I have experience programming in the following languages as reflected in the projects:  
 - Python
 - Matlab
 - C++
